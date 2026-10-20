@@ -1,14 +1,14 @@
 {
   "mods": {
     "26.2": {
-      "version": "1.1.5",
-      "url": "https://github.com/bununxd/Dash-Client/releases/download/v1.1.5/dash-client-1.1.5+mc26.2.jar",
-      "sha256": "e018408509ce24c9e9f9964f828ba8bb3e8ab836c79756234398431a99e9b031"
+      "version": "1.1.6",
+      "url": "https://github.com/bununxd/Dash-Client/releases/download/v1.1.6/dash-client-1.1.6+mc26.2.jar",
+      "sha256": "c10eb6242b82f6e4ec988703188a21d5f82d85910cf249924df17ec319e40b71"
     },
     "26.3": {
-      "version": "1.1.5",
-      "url": "https://github.com/bununxd/Dash-Client/releases/download/v1.1.5/dash-client-1.1.5+mc26.3.jar",
-      "sha256": "0778b65ac4cab458de3045a077bedcae17f49b2e66c91aa588b0c907f3e8312f"
+      "version": "1.1.6",
+      "url": "https://github.com/bununxd/Dash-Client/releases/download/v1.1.6/dash-client-1.1.6+mc26.3.jar",
+      "sha256": "48a7250dcc752335f81a008862cdea9e16ee29562d64e44922e4a948ed7dc8ae"
     }
   }
 }
