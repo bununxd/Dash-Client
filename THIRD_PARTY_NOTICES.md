@@ -28,8 +28,3 @@ Everything below keeps its own license and belongs to its authors. Check each li
 
 Minecraft game files, libraries and assets are downloaded from Mojang's servers and are not part of this project.
 
-## Needs a check before release
-
-The mod's Dark Mode pack (`resourcepacks/dash_dm_dark`) recolours vanilla Minecraft GUI textures and includes a changed
-vanilla text shader. These are derived from Mojang's assets. Read Mojang's usage guidelines and decide whether to keep
-them in the jar or generate them from the player's own game files at runtime.
