@@ -6,7 +6,6 @@
 
 [![Latest release](https://img.shields.io/github/v/release/bununxd/Dash-Client?style=for-the-badge&label=release&color=5865f2)](https://github.com/bununxd/Dash-Client/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/bununxd/Dash-Client/total?style=for-the-badge&color=3ba55d)](https://github.com/bununxd/Dash-Client/releases)
-[![License](https://img.shields.io/github/license/bununxd/Dash-Client?style=for-the-badge&color=lightgrey)](LICENSE)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078d4?style=for-the-badge)
 ![Loader](https://img.shields.io/badge/loader-Fabric-dbd0b4?style=for-the-badge)
 
