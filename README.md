@@ -9,9 +9,8 @@
 [![Latest release](https://img.shields.io/github/v/release/bununxd/Dash-Client?include_prereleases&label=release)](https://github.com/bununxd/Dash-Client/releases)
 [![Downloads](https://img.shields.io/github/downloads/bununxd/Dash-Client/total)](https://github.com/bununxd/Dash-Client/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows-blue)](#requirements)
-[![License](https://img.shields.io/badge/license-MIT%20%2F%20CC0-green)](#license)
 
-[**Download**](https://github.com/bununxd/Dash-Client/releases) · [Features](#features) · [Build from source](#build-from-source) · [FAQ](#faq)
+[**Download**](https://github.com/bununxd/Dash-Client/releases) · [Features](#features) · [FAQ](#faq)
 
 </div>
 
@@ -76,27 +75,6 @@ Java is downloaded for you.
 2. Run it. Windows SmartScreen may warn you because early builds are not code-signed: click **More info > Run anyway**.
 3. Sign in with your Microsoft account and press **Play**.
 
-## Build from source
-
-**Launcher** (Node.js 20+):
-
-```bash
-cd launcher
-npm install
-npm start          # run in development
-npm run dist       # build the installer into dist/
-```
-
-**Mod** (JDK 25):
-
-```bat
-cd mod
-build.bat build all      :: builds the 26.2 and 26.3 jars into build\libs
-build.bat run 26.3       :: test in a dev client
-```
-
-Put the built jars in `launcher/mods/` (keep the Minecraft version in the file name, e.g. `dash-client-1.1.7+mc26.3.jar`) so fresh installs start with the newest mod.
-
 ## Privacy and security
 
 - Your login token is stored encrypted on your own PC and goes only to Microsoft, Xbox and Minecraft services.
@@ -129,7 +107,7 @@ Built on [Fabric](https://fabricmc.net) and [Modrinth](https://modrinth.com). Th
 
 ## License
 
-The launcher is MIT licensed and the Dash mod is CC0. See [`LICENSE`](LICENSE) and [`mod/LICENSE`](mod/LICENSE).
+Free to use. Dash Client is not affiliated with Mojang or Microsoft.
 
 ## Contact
 
